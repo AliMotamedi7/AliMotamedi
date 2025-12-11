@@ -4,15 +4,7 @@ Hi, I'm Ali!<br>👋 I'm a software developer with a strong <br>passion for codi
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://www.linkedin.com/in/ali-motamedi-517b29200" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://t.me/ALIMOTAMEDI7" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://wa.me/YOUR_NUMBER" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
+<a href="https://www.linkedin.com/in/ali-motamedi-517b29200" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://t.me/ALIMOTAMEDI7" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a><a href="https://wa.me/YOUR_NUMBER" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 # 💻 Tech Stack:
