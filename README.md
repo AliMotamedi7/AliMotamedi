@@ -1,21 +1,35 @@
-# 💫 About Me:
-Hi, I'm Ali!<br>👋 I'm a software developer with a strong <br>passion for coding and new technologies.<br>🚀 I pride myself on adaptability and spend <br>time daily learning the latest tech stacks.
+# Hi, I'm Ali Motamedi 👋
 
+**Mid-Level Flutter & Mobile Application Developer**
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://www.linkedin.com/in/ali-motamedi-517b29200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://t.me/ALIMOTAMEDI7" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>&nbsp;<a href="https://wa.me/YOUR_NUMBER" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
+I specialize in building scalable, high-performance cross-platform applications using Flutter and Dart. My focus is on clean architecture, efficient state management, and building robust pipelines from development to deployment.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AliMotamedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AliMotamedi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMotamedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🛠️ Tech Stack & Tools
+* **Frameworks & Languages:** Flutter, Dart
+* **State Management & Routing:** GetX (Controllers, Bindings, Reactive Observables)
+* **Networking:** Dio (Advanced Interceptors, Retry Logic, Error Handling)
+* **Backend Integration:** Firebase (Authentication, Cloud Messaging)
+* **Monitoring & Quality:** Sentry (Crash Reporting & Performance)
+* **DevOps & CI/CD:** GitHub Actions, GitLab CI/CD, FVM
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AliMotamedi&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+### 🚀 Highlighted Work & Open Source
 
----
-[![](https://visitcount.itsvg.in/api?id=AliMotamedi&icon=0&color=0)](https://visitcount.itsvg.in)
+* **[pdf_merger_flutter](https://pub.dev/packages/pdf_merger_flutter)**  
+  *Creator and maintainer.* An open-source Dart package published on pub.dev that enables seamless merging of PDF files directly within Flutter applications.
+  
+* **Complex Media Integrations**  
+  Extensive experience implementing background audio playback, stream synchronization, and media notification controls using `just_audio` and `audio_service`.
+
+* **Scalable Architecture & Infrastructure**  
+  Proven track record in transitioning project architectures, implementing dependency injection, and setting up automated CI/CD workflows for mobile applications to ensure smooth deployments.
+
+### 🧠 How I Build
+* **Architecture First:** I prioritize modular, maintainable codebases utilizing clean architecture principles and strict dependency injection.
+* **Resilient Networking:** I build robust API layers with comprehensive error logging, retry mechanisms, and interceptors so the app degrades gracefully during network drops.
+* **Automation Mindset:** I strongly believe in automating repetitive tasks. By setting up strict CI/CD pipelines and using tools like FVM, I ensure development environments are consistent and releases are hands-free.
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-motamedi-dev/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ALIMOTAMEDI7)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989369937462)
